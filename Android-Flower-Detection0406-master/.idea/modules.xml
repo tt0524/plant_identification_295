@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Flower-Detection.iml" filepath="$PROJECT_DIR$/Android-Flower-Detection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Flower-Detection-master.iml" filepath="$PROJECT_DIR$/Android-Flower-Detection-master.iml" group="Android-Flower-Detection-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android-Flower-Detection-master-app.iml" filepath="$PROJECT_DIR$/app/Android-Flower-Detection-master-app.iml" group="Android-Flower-Detection-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Flower-Detection0406-master.iml" filepath="$PROJECT_DIR$/Android-Flower-Detection0406-master.iml" group="Android-Flower-Detection0406-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android-Flower-Detection0406-master-app.iml" filepath="$PROJECT_DIR$/app/Android-Flower-Detection0406-master-app.iml" group="Android-Flower-Detection0406-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
